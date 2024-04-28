@@ -10,16 +10,18 @@ Currently, Aravind technicians travel to these rural areas to capture images and
 
 ## Project Outline (Tentative):
 
-1. Background Study - 1 week
-     1.1. Literature Review :
-         a. https://arxiv.org/pdf/2003.02261.pdf
-         b. https://arxiv.org/ftp/arxiv/papers/1905/1905.07203.pdf
-         c. https://arxiv.org/pdf/2003.02261v1.pdf
-3. Data Exploration - 1 week
-4. Pre-Processing - 1 week
-5. Initial Model Implementation- 2 weeks
-6. Intial Model Evaluation - 1 week
-7. Further Processing / Augmentation based on Evaluation - 1 weeks
-8. Ensambling Model & Evaluation- 2 weeks
-9. Validation and Fine Tuning - 1 week
-10. Documentation and Reporting - 2 weeks
+1. Background Study - 1 week - [#1][i1]
+     - 1.1. Literature Review :
+         - a. https://arxiv.org/pdf/2003.02261.pdf
+         - b. https://arxiv.org/ftp/arxiv/papers/1905/1905.07203.pdf
+         - c. https://www.biorxiv.org/content/biorxiv/early/2019/09/09/763136.full.pdf
+2. Data Exploration - 1 week [#2][i2]
+3. Pre-Processing - 1 week [#3][i3]
+4. Initial Model Implementation- 2 weeks [#4][i4]
+5. Intial Model Evaluation - 1 week [#5][i5]
+6. Further Processing / Augmentation based on Evaluation - 1 weeks [#6][i6]
+7. Ensambling Model & Evaluation- 2 weeks [#7][i7]
+8. Validation and Fine Tuning - 1 week [#8][i8]
+9. Documentation and Reporting - 2 weeks [#9][i9]
+
+[i1]: https://github.com/abdulahad2307/FAU-Project_CV-Ahad/issues/1
