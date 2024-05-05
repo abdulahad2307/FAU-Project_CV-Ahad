@@ -25,3 +25,4 @@ Currently, Aravind technicians travel to these rural areas to capture images and
 9. Documentation and Reporting - 2 weeks [#9][i9]
 
 [i1]: https://github.com/abdulahad2307/FAU-Project_CV-Ahad/issues/1
+[i2]: https://github.com/abdulahad2307/FAU-Project_CV-Ahad/issues/2
