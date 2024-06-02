@@ -28,3 +28,4 @@ Currently, Aravind technicians travel to these rural areas to capture images and
 [i2]: https://github.com/abdulahad2307/FAU-Project_CV-Ahad/issues/2
 [i3]: https://github.com/abdulahad2307/FAU-Project_CV-Ahad/issues/3
 [i4]: https://github.com/abdulahad2307/FAU-Project_CV-Ahad/issues/5
+[i5]: https://github.com/abdulahad2307/FAU-Project_CV-Ahad/issues/7
